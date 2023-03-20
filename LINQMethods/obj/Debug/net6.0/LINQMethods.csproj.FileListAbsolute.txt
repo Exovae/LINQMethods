@@ -1,0 +1,15 @@
+C:\Users\ellio\source\repos\LINQMethods\LINQMethods\bin\Debug\net6.0\LINQMethods.exe
+C:\Users\ellio\source\repos\LINQMethods\LINQMethods\bin\Debug\net6.0\LINQMethods.deps.json
+C:\Users\ellio\source\repos\LINQMethods\LINQMethods\bin\Debug\net6.0\LINQMethods.runtimeconfig.json
+C:\Users\ellio\source\repos\LINQMethods\LINQMethods\bin\Debug\net6.0\LINQMethods.dll
+C:\Users\ellio\source\repos\LINQMethods\LINQMethods\bin\Debug\net6.0\LINQMethods.pdb
+C:\Users\ellio\source\repos\LINQMethods\LINQMethods\obj\Debug\net6.0\LINQMethods.csproj.AssemblyReference.cache
+C:\Users\ellio\source\repos\LINQMethods\LINQMethods\obj\Debug\net6.0\LINQMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\source\repos\LINQMethods\LINQMethods\obj\Debug\net6.0\LINQMethods.AssemblyInfoInputs.cache
+C:\Users\ellio\source\repos\LINQMethods\LINQMethods\obj\Debug\net6.0\LINQMethods.AssemblyInfo.cs
+C:\Users\ellio\source\repos\LINQMethods\LINQMethods\obj\Debug\net6.0\LINQMethods.csproj.CoreCompileInputs.cache
+C:\Users\ellio\source\repos\LINQMethods\LINQMethods\obj\Debug\net6.0\LINQMethods.dll
+C:\Users\ellio\source\repos\LINQMethods\LINQMethods\obj\Debug\net6.0\refint\LINQMethods.dll
+C:\Users\ellio\source\repos\LINQMethods\LINQMethods\obj\Debug\net6.0\LINQMethods.pdb
+C:\Users\ellio\source\repos\LINQMethods\LINQMethods\obj\Debug\net6.0\LINQMethods.genruntimeconfig.cache
+C:\Users\ellio\source\repos\LINQMethods\LINQMethods\obj\Debug\net6.0\ref\LINQMethods.dll
